@@ -5,7 +5,7 @@ This is a solution to the [Fylo landing page with two column layout](https://www
 
 ### Links
 
-- Live Site URL: [Here]()
+- Live Site URL: [Here](https://mahmoudbadrali.github.io/Fylo-landing-page-with-two-column-layout/)
 
 ## Author
 
